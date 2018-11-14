@@ -1,0 +1,11 @@
+{
+  "name": "reactidux-boilerplate",
+  "version": "1.0.0",
+  "description": "A boilerplate for projects using React, Redux, Webpack, and Sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Ian Sayre",
+  "license": "ISC"
+}
