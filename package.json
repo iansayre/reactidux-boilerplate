@@ -1,7 +1,7 @@
 {
   "name": "reactidux-boilerplate",
   "version": "1.0.0",
-  "description": "A boilerplate for projects using React, Redux, Webpack, and Sass",
+  "description": "A boilerplate for projects using React, Redux, and Webpack",
   "main": "index.js",
   "scripts": {
     "test": "npm test"
