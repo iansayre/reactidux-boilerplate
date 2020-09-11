@@ -1,7 +1,7 @@
 {
-  "name": "fruitpal",
+  "name": "reactidux-boilerplate",
   "version": "1.0.0",
-  "description": "A takehome assignment for State Title",
+  "description": "A boilerplate for projects using React, Redux, and Webpack",
   "main": "index.js",
   "scripts": {
     "test": "npm test",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "githttps://github.com/iansayre/fruitpal"
+    "url": "githttps://github.com/iansayre/reactidux-boilerplate"
   },
   "keywords": [
     "React",
+    "Redux",
     "Webpack",
     "Babel",
-    "graphql",
-    "express"
+    "Boilerplate"
   ],
   "author": "Ian Sayre",
   "license": "ISC",
@@ -53,12 +53,13 @@
   },
   "dependencies": {
     "babel-jest": "^26.3.0",
-    "express": "^4.17.1",
-    "express-graphql": "^0.11.0",
-    "graphql": "^15.3.0",
     "lodash": "^4.17.20",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-redux": "^5.1.2",
+    "react-router": "^4.3.1",
+    "redux": "^4.0.5",
+    "redux-thunk": "^2.3.0",
     "styled-components": "^5.1.1"
   }
 }
